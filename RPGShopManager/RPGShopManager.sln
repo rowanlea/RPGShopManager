@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPGShopManager", "RPGShopManager\RPGShopManager.csproj", "{815DD474-3D7D-46AE-865B-DE5A3352F8BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPGShopManagerTests", "RPGShopManagerTests\RPGShopManagerTests.csproj", "{7073E353-6622-4275-BD3F-57CFB9ACFB5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{815DD474-3D7D-46AE-865B-DE5A3352F8BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{815DD474-3D7D-46AE-865B-DE5A3352F8BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{815DD474-3D7D-46AE-865B-DE5A3352F8BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{815DD474-3D7D-46AE-865B-DE5A3352F8BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7073E353-6622-4275-BD3F-57CFB9ACFB5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7073E353-6622-4275-BD3F-57CFB9ACFB5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7073E353-6622-4275-BD3F-57CFB9ACFB5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7073E353-6622-4275-BD3F-57CFB9ACFB5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {175F247E-4399-4FB9-AADD-69385C78123B}
+	EndGlobalSection
+EndGlobal

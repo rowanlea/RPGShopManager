@@ -1,0 +1,15 @@
+C:\Users\Rowan\source\repos\RPGShopManager\RPGShopManager\RPGShopManager\bin\Debug\net6.0\RPGShopManager.exe
+C:\Users\Rowan\source\repos\RPGShopManager\RPGShopManager\RPGShopManager\bin\Debug\net6.0\RPGShopManager.deps.json
+C:\Users\Rowan\source\repos\RPGShopManager\RPGShopManager\RPGShopManager\bin\Debug\net6.0\RPGShopManager.runtimeconfig.json
+C:\Users\Rowan\source\repos\RPGShopManager\RPGShopManager\RPGShopManager\bin\Debug\net6.0\RPGShopManager.dll
+C:\Users\Rowan\source\repos\RPGShopManager\RPGShopManager\RPGShopManager\bin\Debug\net6.0\RPGShopManager.pdb
+C:\Users\Rowan\source\repos\RPGShopManager\RPGShopManager\RPGShopManager\obj\Debug\net6.0\RPGShopManager.csproj.AssemblyReference.cache
+C:\Users\Rowan\source\repos\RPGShopManager\RPGShopManager\RPGShopManager\obj\Debug\net6.0\RPGShopManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rowan\source\repos\RPGShopManager\RPGShopManager\RPGShopManager\obj\Debug\net6.0\RPGShopManager.AssemblyInfoInputs.cache
+C:\Users\Rowan\source\repos\RPGShopManager\RPGShopManager\RPGShopManager\obj\Debug\net6.0\RPGShopManager.AssemblyInfo.cs
+C:\Users\Rowan\source\repos\RPGShopManager\RPGShopManager\RPGShopManager\obj\Debug\net6.0\RPGShopManager.csproj.CoreCompileInputs.cache
+C:\Users\Rowan\source\repos\RPGShopManager\RPGShopManager\RPGShopManager\obj\Debug\net6.0\RPGShopManager.dll
+C:\Users\Rowan\source\repos\RPGShopManager\RPGShopManager\RPGShopManager\obj\Debug\net6.0\refint\RPGShopManager.dll
+C:\Users\Rowan\source\repos\RPGShopManager\RPGShopManager\RPGShopManager\obj\Debug\net6.0\RPGShopManager.pdb
+C:\Users\Rowan\source\repos\RPGShopManager\RPGShopManager\RPGShopManager\obj\Debug\net6.0\RPGShopManager.genruntimeconfig.cache
+C:\Users\Rowan\source\repos\RPGShopManager\RPGShopManager\RPGShopManager\obj\Debug\net6.0\ref\RPGShopManager.dll
